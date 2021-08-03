@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cstfb.kiddoplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cstfb.kiddoplugin.MyBundle
 
 class MyApplicationService {
 
